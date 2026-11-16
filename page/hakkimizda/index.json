@@ -1,0 +1,47 @@
+{
+  "name": {
+    "tr": "Merkez",
+    "en": "Centre",
+    "ar": "المركز"
+  },
+  "status": "play",
+  "category": "",
+  "id": "hakkimizda",
+  "url": "",
+  "path": "hakkimizda",
+  "index": 1,
+  "icon": "info",
+  "desing": {
+    "header": [],
+    "body": [
+      "cvj9wi",
+      "xo29g9"
+    ],
+    "footer": []
+  },
+  "pathnext": "",
+  "description": {
+    "tr": "Bir kontrol gününün durakları (kurgusal).",
+    "en": "The stops of a check-up day (fictional).",
+    "ar": "محطات يوم المتابعة (افتراضي)."
+  },
+  "spot": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "desc": {},
+  "title": {
+    "tr": "Merkez",
+    "en": "Centre",
+    "ar": "المركز"
+  },
+  "keyword": {
+    "tr": "hakkımızda",
+    "en": "about",
+    "ar": "من نحن"
+  },
+  "text": {},
+  "update": "2026-11-16T20:31:48.227Z",
+  "date": "2026-10-30"
+}
