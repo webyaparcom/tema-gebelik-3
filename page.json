@@ -1,0 +1,113 @@
+{
+  "data": [
+    {
+      "id": "76mxw8bssw",
+      "name": {
+        "tr": "Haftalar",
+        "en": "Weeks",
+        "ar": "الأسابيع"
+      },
+      "description": {
+        "tr": "Kırk haftanın genel rehberi ve hazırlık akşamları.",
+        "en": "A general guide to the forty weeks and the preparation evenings.",
+        "ar": "دليل عام للأسابيع الأربعين وأمسيات التحضير."
+      },
+      "path": "hizmetler",
+      "icon": "calendar_month",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "hhd8da",
+          "131rn4",
+          "xo29g9"
+        ],
+        "footer": []
+      },
+      "index": 0
+    },
+    {
+      "name": {
+        "tr": "Merkez",
+        "en": "Centre",
+        "ar": "المركز"
+      },
+      "status": "play",
+      "id": "hakkimizda",
+      "path": "hakkimizda",
+      "category": "",
+      "url": "",
+      "index": 1,
+      "icon": "info",
+      "desing": {
+        "header": [],
+        "body": [
+          "cvj9wi",
+          "xo29g9"
+        ],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "Bir kontrol gününün durakları (kurgusal).",
+        "en": "The stops of a check-up day (fictional).",
+        "ar": "محطات يوم المتابعة (افتراضي)."
+      }
+    },
+    {
+      "id": "x004a6dq54",
+      "name": {
+        "tr": "Randevu",
+        "en": "Visit",
+        "ar": "الموعد"
+      },
+      "description": {
+        "tr": "Görüşme seçimi, hazırlık kontrol listesi ve randevu talebi (demo).",
+        "en": "Visit choice, preparation checklist and booking request (demo).",
+        "ar": "اختيار الموعد وقائمة التحضير وطلب الحجز (تجريبي)."
+      },
+      "path": "teklif-al",
+      "icon": "event",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "orczkl"
+        ],
+        "footer": []
+      },
+      "index": 2
+    },
+    {
+      "name": {
+        "tr": "İletişim",
+        "en": "Contact",
+        "ar": "اتصلي بنا"
+      },
+      "status": "play",
+      "id": "iletisim",
+      "path": "iletisim",
+      "category": "",
+      "url": "",
+      "index": 3,
+      "icon": "call",
+      "desing": {
+        "header": [],
+        "body": [
+          "94rsrk",
+          "k8mp01"
+        ],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "Adres, telefon ve çalışma saatleri.",
+        "en": "Address, phone and opening hours.",
+        "ar": "العنوان والهاتف وساعات العمل."
+      }
+    }
+  ],
+  "desc": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": "76mxw8bssw",
+  "name": {
+    "tr": "Haftalar",
+    "en": "Weeks",
+    "ar": "الأسابيع"
+  },
+  "description": {
+    "tr": "Kırk haftanın genel rehberi ve hazırlık akşamları.",
+    "en": "A general guide to the forty weeks and the preparation evenings.",
+    "ar": "دليل عام للأسابيع الأربعين وأمسيات التحضير."
+  },
+  "keyword": {
+    "tr": "gebelik haftaları",
+    "en": "pregnancy weeks",
+    "ar": "أسابيع الحمل"
+  },
+  "path": "hizmetler",
+  "icon": "calendar_month",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "hhd8da",
+      "131rn4",
+      "xo29g9"
+    ],
+    "footer": []
+  },
+  "index": 0,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "Haftalar",
+    "en": "Weeks",
+    "ar": "الأسابيع"
+  },
+  "date": "2026-11-16T20:19:57.506Z",
+  "update": "2026-11-16T20:31:48.222Z"
+}

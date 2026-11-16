@@ -1,0 +1,54 @@
+{
+  "order": false,
+  "user": false,
+  "description": {
+    "tr": "Fidan Gebelik Evi: İzmir Karşıyaka’da gebelik takibi, ultrason randevusu, doğuma hazırlık akşamları ve emzirme danışmanlığı; kırk haftayı hafta hafta anlatan rehber. Demo site; içerik kurgusaldır.",
+    "en": "Fidan Pregnancy House: pregnancy follow-up, ultrasound visits, birth-preparation evenings and breastfeeding support in Karsiyaka, Izmir, with a week-by-week guide to all forty weeks. Demo site; content is fictional.",
+    "ar": "بيت فيدان للحمل: متابعة الحمل ومواعيد الموجات فوق الصوتية وأمسيات التحضير للولادة واستشارات الرضاعة في كارشيياكا بإزمير، مع دليل يشرح الأسابيع الأربعين أسبوعًا بأسبوع. موقع تجريبي؛ المحتوى افتراضي."
+  },
+  "keyword": {
+    "tr": "gebelik takibi, gebelik haftaları, ultrason, doğuma hazırlık, emzirme danışmanlığı, Karşıyaka, İzmir",
+    "en": "pregnancy follow-up, pregnancy weeks, ultrasound, birth preparation, breastfeeding support, Karsiyaka, Izmir",
+    "ar": "متابعة الحمل، أسابيع الحمل، الموجات فوق الصوتية، التحضير للولادة، استشارات الرضاعة، إزمير"
+  },
+  "category": "Kurumsal",
+  "name": "Fidan Gebelik Evi",
+  "domain": "gebelik-3.webyapar.com",
+  "langs": {
+    "tr": true,
+    "en": true,
+    "ar": true,
+    "de": false,
+    "ru": false,
+    "es": false,
+    "fr": false,
+    "it": false,
+    "ja": false,
+    "zh": false,
+    "ko": false,
+    "pt": false
+  },
+  "logo": "logo.png",
+  "multi": false,
+  "publishMode": "static",
+  "font": {
+    "body": "open-sans",
+    "heading": "lora",
+    "ar": {
+      "body": "ibm-plex-sans-arabic",
+      "heading": "noto-naskh-arabic"
+    }
+  },
+  "colorScheme": "auto",
+  "theme_color": "#2F7A5C",
+  "seo": {
+    "noindex": true
+  },
+  "cssTokens": {
+    "--mx-radius-sm": "4px",
+    "--mx-radius-md": "6px",
+    "--mx-radius-lg": "8px",
+    "--mx-radius-xl": "11px"
+  },
+  "icon": "icon.png"
+}
