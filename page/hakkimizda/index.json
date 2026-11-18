@@ -2,7 +2,9 @@
   "name": {
     "tr": "Merkez",
     "en": "Centre",
-    "ar": "المركز"
+    "ar": "المركز",
+    "de": "Zentrum",
+    "ru": "Центр"
   },
   "status": "play",
   "category": "",
@@ -23,7 +25,9 @@
   "description": {
     "tr": "Bir kontrol gününün durakları (kurgusal).",
     "en": "The stops of a check-up day (fictional).",
-    "ar": "محطات يوم المتابعة (افتراضي)."
+    "ar": "محطات يوم المتابعة (افتراضي).",
+    "de": "Stationen eines Kontrolltages (fiktiv).",
+    "ru": "Этапы одного дня обследования (вымышленные)."
   },
   "spot": {
     "tr": "",
@@ -34,12 +38,16 @@
   "title": {
     "tr": "Merkez",
     "en": "Centre",
-    "ar": "المركز"
+    "ar": "المركز",
+    "de": "Zentrum",
+    "ru": "Центр"
   },
   "keyword": {
     "tr": "hakkımızda",
     "en": "about",
-    "ar": "من نحن"
+    "ar": "من نحن",
+    "de": "Über uns",
+    "ru": "О нас"
   },
   "text": {},
   "update": "2026-11-16T20:31:48.227Z",
