@@ -3,17 +3,23 @@
   "name": {
     "tr": "Kalite Politikamız",
     "en": "Quality Policy",
-    "ar": "سياسة الجودة"
+    "ar": "سياسة الجودة",
+    "de": "Qualitätspolitik",
+    "ru": "Политика качества"
   },
   "description": {
     "tr": "Kalite politikamız",
     "en": "Our quality policy",
-    "ar": "سياسة الجودة لدينا"
+    "ar": "سياسة الجودة لدينا",
+    "de": "Unsere Qualitätspolitik",
+    "ru": "Наша политика качества"
   },
   "keyword": {
     "tr": "Kalite Politikamız",
     "en": "quality policy, quality, continuous improvement",
-    "ar": "سياسة الجودة, الجودة, التحسين المستمر"
+    "ar": "سياسة الجودة, الجودة, التحسين المستمر",
+    "de": "Qualitätspolitik",
+    "ru": "Политика качества"
   },
   "path": "kalitepolitikamiz",
   "icon": "verified",
@@ -29,12 +35,16 @@
   "text": {
     "tr": "<h2>Kalite Politikamız</h2>\n<p>Her tetkikten önce yazılı hazırlık notu, küçük gruplar, sağlık verisinin yalnız muayene kaydında tutulması.</p>",
     "en": "<h2>Our quality policy</h2>\n<p>A written preparation note before every test, small groups and health data kept only in the examination record.</p>",
-    "ar": "<h2>سياسة الجودة لدينا</h2>\n<p>ملاحظة تحضير مكتوبة قبل كل فحص، ومجموعات صغيرة، وحفظ البيانات الصحية في سجل الفحص فقط.</p>"
+    "ar": "<h2>سياسة الجودة لدينا</h2>\n<p>ملاحظة تحضير مكتوبة قبل كل فحص، ومجموعات صغيرة، وحفظ البيانات الصحية في سجل الفحص فقط.</p>",
+    "de": "<h2>Unsere Qualitätspolitik</h2>\n<p>Vor jeder Untersuchung eine schriftliche Vorbereitungsnotiz, kleine Gruppen, Gesundheitsdaten werden nur in der Untersuchungsakte geführt.</p>",
+    "ru": "<h2>Наша политика качества</h2>\n<p>Перед каждым обследованием — письменная памятка по подготовке, небольшие группы, данные о здоровье хранятся только в карте обследования.</p>"
   },
   "title": {
     "tr": "Kalite Politikamız",
     "en": "Quality Policy",
-    "ar": "سياسة الجودة"
+    "ar": "سياسة الجودة",
+    "de": "Qualitätspolitik",
+    "ru": "Политика качества"
   },
   "date": "2026-11-16T20:19:57.367Z",
   "update": "2026-11-16T20:31:48.248Z",

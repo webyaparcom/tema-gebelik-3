@@ -5,12 +5,16 @@
       "name": {
         "tr": "Haftalar",
         "en": "Weeks",
-        "ar": "الأسابيع"
+        "ar": "الأسابيع",
+        "de": "Wochen",
+        "ru": "Недели"
       },
       "description": {
         "tr": "Kırk haftanın genel rehberi ve hazırlık akşamları.",
         "en": "A general guide to the forty weeks and the preparation evenings.",
-        "ar": "دليل عام للأسابيع الأربعين وأمسيات التحضير."
+        "ar": "دليل عام للأسابيع الأربعين وأمسيات التحضير.",
+        "de": "Ein allgemeiner Leitfaden für die vierzig Wochen und die Vorbereitungsabende.",
+        "ru": "Общий путеводитель по сорока неделям и вечерам подготовки."
       },
       "path": "hizmetler",
       "icon": "calendar_month",
@@ -31,7 +35,9 @@
       "name": {
         "tr": "Merkez",
         "en": "Centre",
-        "ar": "المركز"
+        "ar": "المركز",
+        "de": "Zentrum",
+        "ru": "Центр"
       },
       "status": "play",
       "id": "hakkimizda",
@@ -52,7 +58,9 @@
       "description": {
         "tr": "Bir kontrol gününün durakları (kurgusal).",
         "en": "The stops of a check-up day (fictional).",
-        "ar": "محطات يوم المتابعة (افتراضي)."
+        "ar": "محطات يوم المتابعة (افتراضي).",
+        "de": "Stationen eines Kontrolltages (fiktiv).",
+        "ru": "Этапы одного дня обследования (вымышленные)."
       }
     },
     {
@@ -60,12 +68,16 @@
       "name": {
         "tr": "Randevu",
         "en": "Visit",
-        "ar": "الموعد"
+        "ar": "الموعد",
+        "de": "Termin",
+        "ru": "Запись"
       },
       "description": {
         "tr": "Görüşme seçimi, hazırlık kontrol listesi ve randevu talebi (demo).",
         "en": "Visit choice, preparation checklist and booking request (demo).",
-        "ar": "اختيار الموعد وقائمة التحضير وطلب الحجز (تجريبي)."
+        "ar": "اختيار الموعد وقائمة التحضير وطلب الحجز (تجريبي).",
+        "de": "Gesprächsauswahl, Vorbereitungs-Checkliste und Terminanfrage (Demo).",
+        "ru": "Выбор встречи, чек-лист подготовки и запрос на запись (демо)."
       },
       "path": "teklif-al",
       "icon": "event",
@@ -84,7 +96,9 @@
       "name": {
         "tr": "İletişim",
         "en": "Contact",
-        "ar": "اتصلي بنا"
+        "ar": "اتصلي بنا",
+        "de": "Kontakt",
+        "ru": "Контакты"
       },
       "status": "play",
       "id": "iletisim",
@@ -105,7 +119,9 @@
       "description": {
         "tr": "Adres, telefon ve çalışma saatleri.",
         "en": "Address, phone and opening hours.",
-        "ar": "العنوان والهاتف وساعات العمل."
+        "ar": "العنوان والهاتف وساعات العمل.",
+        "de": "Adresse, Telefon und Öffnungszeiten.",
+        "ru": "Адрес, телефон и часы работы."
       }
     }
   ],

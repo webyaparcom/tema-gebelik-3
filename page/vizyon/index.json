@@ -3,17 +3,23 @@
   "name": {
     "tr": "Vizyon",
     "en": "Vision",
-    "ar": "الرؤية"
+    "ar": "الرؤية",
+    "de": "Vision",
+    "ru": "Видение"
   },
   "description": {
     "tr": "Vizyonumuz",
     "en": "Our vision",
-    "ar": "رؤيتنا"
+    "ar": "رؤيتنا",
+    "de": "Unsere Vision",
+    "ru": "Наше видение"
   },
   "keyword": {
     "tr": "Vizyon",
     "en": "vision, our vision, goals",
-    "ar": "الرؤية, رؤيتنا, الأهداف"
+    "ar": "الرؤية, رؤيتنا, الأهداف",
+    "de": "Vision",
+    "ru": "Видение"
   },
   "path": "vizyon",
   "icon": "visibility",
@@ -29,12 +35,16 @@
   "text": {
     "tr": "<h2>Vizyonumuz</h2>\n<p>Karşıyaka’da ailelerin sorularını yazılı ve zamanında yanıtlayan bir gebelik evi olmak.</p>",
     "en": "<h2>Our vision</h2>\n<p>To be a pregnancy house in Karsiyaka that answers families’ questions in writing and on time.</p>",
-    "ar": "<h2>رؤيتنا</h2>\n<p>أن نكون بيتًا للحمل في كارشيياكا يجيب عن أسئلة العائلات كتابةً وفي وقتها.</p>"
+    "ar": "<h2>رؤيتنا</h2>\n<p>أن نكون بيتًا للحمل في كارشيياكا يجيب عن أسئلة العائلات كتابةً وفي وقتها.</p>",
+    "de": "<h2>Unsere Vision</h2>\n<p>Ein Schwangerschaftshaus in Karşıyaka zu sein, das die Fragen der Familien schriftlich und rechtzeitig beantwortet.</p>",
+    "ru": "<h2>Наша миссия</h2>\n<p>Быть домом беременности в Каршыка, который письменно и вовремя отвечает на вопросы семей.</p>"
   },
   "title": {
     "tr": "Vizyon",
     "en": "Vision",
-    "ar": "الرؤية"
+    "ar": "الرؤية",
+    "de": "Vision",
+    "ru": "Видение"
   },
   "date": "2026-11-16T20:19:57.367Z",
   "update": "2026-11-16T20:31:48.246Z",

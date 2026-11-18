@@ -3,17 +3,23 @@
   "name": {
     "tr": "Haftalar",
     "en": "Weeks",
-    "ar": "الأسابيع"
+    "ar": "الأسابيع",
+    "de": "Wochen",
+    "ru": "Недели"
   },
   "description": {
     "tr": "Kırk haftanın genel rehberi ve hazırlık akşamları.",
     "en": "A general guide to the forty weeks and the preparation evenings.",
-    "ar": "دليل عام للأسابيع الأربعين وأمسيات التحضير."
+    "ar": "دليل عام للأسابيع الأربعين وأمسيات التحضير.",
+    "de": "Ein allgemeiner Leitfaden für die vierzig Wochen und die Vorbereitungsabende.",
+    "ru": "Общий путеводитель по сорока неделям и вечерам подготовки."
   },
   "keyword": {
     "tr": "gebelik haftaları",
     "en": "pregnancy weeks",
-    "ar": "أسابيع الحمل"
+    "ar": "أسابيع الحمل",
+    "de": "Schwangerschaftswochen",
+    "ru": "недели беременности"
   },
   "path": "hizmetler",
   "icon": "calendar_month",
@@ -34,7 +40,9 @@
   "title": {
     "tr": "Haftalar",
     "en": "Weeks",
-    "ar": "الأسابيع"
+    "ar": "الأسابيع",
+    "de": "Wochen",
+    "ru": "Недели"
   },
   "date": "2026-11-16T20:19:57.506Z",
   "update": "2026-11-16T20:31:48.222Z"

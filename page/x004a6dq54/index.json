@@ -3,17 +3,23 @@
   "name": {
     "tr": "Randevu",
     "en": "Visit",
-    "ar": "الموعد"
+    "ar": "الموعد",
+    "de": "Termin",
+    "ru": "Запись"
   },
   "description": {
     "tr": "Görüşme seçimi, hazırlık kontrol listesi ve randevu talebi (demo).",
     "en": "Visit choice, preparation checklist and booking request (demo).",
-    "ar": "اختيار الموعد وقائمة التحضير وطلب الحجز (تجريبي)."
+    "ar": "اختيار الموعد وقائمة التحضير وطلب الحجز (تجريبي).",
+    "de": "Gesprächsauswahl, Vorbereitungs-Checkliste und Terminanfrage (Demo).",
+    "ru": "Выбор встречи, чек-лист подготовки и запрос на запись (демо)."
   },
   "keyword": {
     "tr": "randevu",
     "en": "appointment",
-    "ar": "موعد"
+    "ar": "موعد",
+    "de": "Termin",
+    "ru": "запись"
   },
   "path": "teklif-al",
   "icon": "event",
@@ -32,7 +38,9 @@
   "title": {
     "tr": "Randevu",
     "en": "Visit",
-    "ar": "الموعد"
+    "ar": "الموعد",
+    "de": "Termin",
+    "ru": "Запись"
   },
   "date": "2026-11-16T20:19:57.515Z",
   "update": "2026-11-16T20:31:48.233Z"

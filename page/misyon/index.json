@@ -3,17 +3,23 @@
   "name": {
     "tr": "Misyon",
     "en": "Mission",
-    "ar": "المهمة"
+    "ar": "المهمة",
+    "de": "Mission",
+    "ru": "Миссия"
   },
   "description": {
     "tr": "Misyonumuz",
     "en": "Our mission",
-    "ar": "مهمتنا"
+    "ar": "مهمتنا",
+    "de": "Unsere Mission",
+    "ru": "Наша миссия"
   },
   "keyword": {
     "tr": "Misyon",
     "en": "mission, our mission, corporate responsibility",
-    "ar": "الرسالة, رسالتنا, المسؤولية المؤسسية"
+    "ar": "الرسالة, رسالتنا, المسؤولية المؤسسية",
+    "de": "Mission",
+    "ru": "Миссия"
   },
   "path": "misyon",
   "icon": "flag",
@@ -29,12 +35,16 @@
   "text": {
     "tr": "<h2>Misyonumuz</h2>\n<p>Gebeliğin kırk haftasını, hekim ve ebe muayenesine eşlik eden sakin ve anlaşılır bir rehberle izlemek.</p>",
     "en": "<h2>Our mission</h2>\n<p>To follow the forty weeks of pregnancy with a calm, clear guide that accompanies examinations by the doctor and midwife.</p>",
-    "ar": "<h2>مهمتنا</h2>\n<p>متابعة أسابيع الحمل الأربعين بدليل هادئ وواضح يرافق فحوص الطبيب والقابلة.</p>"
+    "ar": "<h2>مهمتنا</h2>\n<p>متابعة أسابيع الحمل الأربعين بدليل هادئ وواضح يرافق فحوص الطبيب والقابلة.</p>",
+    "de": "<h2>Unsere Mission</h2>\n<p>Die vierzig Wochen der Schwangerschaft mit einem ruhigen und verständlichen Ratgeber zu begleiten, der Arzt- und Hebammenuntersuchungen ergänzt.</p>",
+    "ru": "<h2>Наша миссия</h2>\n<p>Сопровождать сорок недель беременности спокойным и понятным путеводителем, дополняющим осмотры врача и акушерки.</p>"
   },
   "title": {
     "tr": "Misyon",
     "en": "Mission",
-    "ar": "المهمة"
+    "ar": "المهمة",
+    "de": "Mission",
+    "ru": "Миссия"
   },
   "date": "2026-11-16T20:19:57.367Z",
   "update": "2026-11-16T20:31:48.243Z",

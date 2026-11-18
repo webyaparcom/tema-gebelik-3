@@ -4,12 +4,16 @@
   "description": {
     "tr": "Fidan Gebelik Evi: İzmir Karşıyaka’da gebelik takibi, ultrason randevusu, doğuma hazırlık akşamları ve emzirme danışmanlığı; kırk haftayı hafta hafta anlatan rehber. Demo site; içerik kurgusaldır.",
     "en": "Fidan Pregnancy House: pregnancy follow-up, ultrasound visits, birth-preparation evenings and breastfeeding support in Karsiyaka, Izmir, with a week-by-week guide to all forty weeks. Demo site; content is fictional.",
-    "ar": "بيت فيدان للحمل: متابعة الحمل ومواعيد الموجات فوق الصوتية وأمسيات التحضير للولادة واستشارات الرضاعة في كارشيياكا بإزمير، مع دليل يشرح الأسابيع الأربعين أسبوعًا بأسبوع. موقع تجريبي؛ المحتوى افتراضي."
+    "ar": "بيت فيدان للحمل: متابعة الحمل ومواعيد الموجات فوق الصوتية وأمسيات التحضير للولادة واستشارات الرضاعة في كارشيياكا بإزمير، مع دليل يشرح الأسابيع الأربعين أسبوعًا بأسبوع. موقع تجريبي؛ المحتوى افتراضي.",
+    "de": "Fidan Schwangerschaftshaus: Schwangerschaftsbegleitung, Ultraschalltermine, Geburtsvorbereitungsabende und Stillberatung in Karşıyaka, Izmir; ein Leitfaden, der die vierzig Wochen Woche für Woche erklärt. Demo-Seite; Inhalt ist fiktiv.",
+    "ru": "Fidan Дом беременности: наблюдение за беременностью, УЗИ, вечера подготовки к родам и консультации по грудному вскармливанию в Каршыяке, Измир; руководство по всем сорока неделям. Демо-сайт; контент вымышленный."
   },
   "keyword": {
     "tr": "gebelik takibi, gebelik haftaları, ultrason, doğuma hazırlık, emzirme danışmanlığı, Karşıyaka, İzmir",
     "en": "pregnancy follow-up, pregnancy weeks, ultrasound, birth preparation, breastfeeding support, Karsiyaka, Izmir",
-    "ar": "متابعة الحمل، أسابيع الحمل، الموجات فوق الصوتية، التحضير للولادة، استشارات الرضاعة، إزمير"
+    "ar": "متابعة الحمل، أسابيع الحمل، الموجات فوق الصوتية، التحضير للولادة، استشارات الرضاعة، إزمير",
+    "de": "Schwangerschaftsbegleitung, Schwangerschaftswochen, Ultraschall, Geburtsvorbereitung, Stillberatung, Karşıyaka, Izmir",
+    "ru": "наблюдение за беременностью, недели беременности, УЗИ, подготовка к родам, консультирование по грудному вскармливанию, Каршыака, Измир"
   },
   "category": "Kurumsal",
   "name": "Fidan Gebelik Evi",
@@ -18,15 +22,27 @@
     "tr": true,
     "en": true,
     "ar": true,
-    "de": false,
-    "ru": false,
+    "de": true,
+    "ru": true,
     "es": false,
     "fr": false,
     "it": false,
     "ja": false,
     "zh": false,
     "ko": false,
-    "pt": false
+    "pt": false,
+    "fa": false,
+    "he": false,
+    "ur": false,
+    "nl": false,
+    "pl": false,
+    "uk": false,
+    "az": false,
+    "ka": false,
+    "el": false,
+    "bg": false,
+    "ro": false,
+    "hi": false
   },
   "logo": "logo.png",
   "multi": false,
